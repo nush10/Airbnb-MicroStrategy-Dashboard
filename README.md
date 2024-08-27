@@ -1,7 +1,9 @@
 Airbnb NYC Data Analysis
+
 ![Screenshot (231)](https://github.com/user-attachments/assets/9191e7e2-df8c-4849-9eeb-7091e1453437)
 
-![Screenshot (231)](https://github.com/user-attachments/assets/97128d47-421f-4907-a342-f5ed7f5eafb8)
+![Screenshot (232)](https://github.com/user-attachments/assets/9d960ab8-009f-4c67-be47-30d96b2e3a09)
+
 
 
 Description
