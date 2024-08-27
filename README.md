@@ -1,4 +1,5 @@
 Airbnb NYC Data Analysis
+
 Description
 This project provides an in-depth analysis of Airbnb’s listing activity and metrics in New York City for the year 2019. Utilizing a public dataset from Airbnb, the analysis aims to uncover insights into host activities, geographical distribution, pricing strategies, and customer reviews.
 
